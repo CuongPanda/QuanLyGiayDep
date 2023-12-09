@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\bin\Debug\QuanLyCuaHangDayDep.exe.config
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\bin\Debug\QuanLyCuaHangDayDep.exe
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\bin\Debug\QuanLyCuaHangDayDep.pdb
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\obj\Debug\QuanLyCuaHangDayDep.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\obj\Debug\QuanLyCuaHangDayDep.CuaSoDangNhap.resources
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\obj\Debug\QuanLyCuaHangDayDep.Home.resources
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\obj\Debug\QuanLyCuaHangDayDep.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\obj\Debug\QuanLyCuaHangDayDep.ThongTinKH.resources
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\obj\Debug\QuanLyCuaHangDayDep.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\obj\Debug\QuanLyCuaHangDayDep.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\obj\Debug\QuanLyCuaHangDayDep.exe
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\obj\Debug\QuanLyCuaHangDayDep.pdb
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\obj\Debug\QuanLyCuaHangDayDep.QuanLyKho.resources
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\obj\Debug\QuanLyCuaHangDayDep.QuanLyNhanVien.resources
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\obj\Debug\QuanLyCuaHangDayDep.QuanLyBanHang.resources
+C:\Users\ADMIN\source\repos\QuanLyCuaHangDayDep\QuanLyCuaHangDayDep\obj\Debug\QuanLyCuaHangDayDep.BaoCaoDoanhThu.resources
